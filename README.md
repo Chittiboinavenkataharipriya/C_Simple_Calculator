@@ -23,3 +23,4 @@ It also supports **input validation**, **screen clearing**, and a **calculation 
 1. Clone or download this repository:  
    ```bash
    git clone https://github.com/Chittiboinavenkataharipriya/C_Simple_Calculator.git
+   https://github.com/Chittiboinavenkataharipriya/C_Simple_Calculator
