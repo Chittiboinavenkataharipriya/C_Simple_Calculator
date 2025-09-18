@@ -24,3 +24,7 @@ It also supports **input validation**, **screen clearing**, and a **calculation 
    ```bash
    git clone https://github.com/Chittiboinavenkataharipriya/C_Simple_Calculator.git
    https://github.com/Chittiboinavenkataharipriya/C_Simple_Calculator
+2. Open a terminal or command prompt in the project folder.  
+3. Compile the program:  
+   ```bash
+   gcc calculator.c -o calculator
